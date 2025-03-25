@@ -1,5 +1,5 @@
 # sample python program
-# test1
+# test
 def add_numbers(a, b):
     return a + b
 
