@@ -1,6 +1,6 @@
 # sample python program
 # test1
-def add_numbers(a, b):
+def test_addition(a, b):
     return a + b
 
 # Example usage
